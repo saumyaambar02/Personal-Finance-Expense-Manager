@@ -1,23 +1,26 @@
 # Personal-Finance-Expense-Manager
 **Project Overview**
-This project is simple yet practical Python based project that would help the user to manage their day to day personal finance expenses. 
-In this the user can log their expenses and income, organise and categorize them, set thier monthly budgets and keep a track of their expenditure details.
+
+This is a simple yet practical Python based project that helps users manage their day-to-day personal finances.
+Users can log their expenses and income, organize and categorize them, set monthly budgets, and keep track of their expenditure details.
 
 **Features:**
-1. Add, edit or delete any transactions whether it's an income or an expense. 
-2. Sort the transactions into categories like Food, Rent, Utilities, Entertainment, Transport, Others. 
-3. Show a clean Monthly summary regarding total income, total expense, savings.
-4. Set Budget tracking for each category with alerts whenever the budget gets exceeded
-5. Exports the monthly report to CSV or TXT File.
-6. User can visualize their monthly spending category wise along with bar or pie charts.
 
-**Tools USed:**
+1. Add, edit, or delete transactions, whether income or expense.
+2. Sort transactions into categories like Food, Rent, Utilities, Entertainment, Transport, and Others.
+3. View a clean monthly summary of total income, total expenses, and savings.
+4. Set budget tracking for each category and receive alerts when the budget is exceeded.
+5. Export monthly reports to CSV or TXT files.
+6. Visualize monthly spending category-wise using bar or pie charts.
+
+**Tools Used:**
+
 Python 3.8+
-Panda
-Matplotlib
-Simple CSV based storage
+pandas
+matplotlib
+Simple CSV-based storage 
 
 **How to Run the Project**
-1. Install requirements:
-   ```bash
-   pip install -r requirements.txt
+
+1. Install the requirements:
+pip install -r requirements.txt
